@@ -1,0 +1,23 @@
+a{text-decoration:none;}
+
+.web{ width: 1000px;
+margin:0 auto; }
+.lan{ width: 1000px;
+margin:0 auto; }
+
+.lan{ background-color:#FF9A00;
+text-aling:center;
+margin-top:10px;margin-left:10px;margin-right:10px;
+border-radius:5px
+}
+
+naiv1 ul { list-style: none; }
+ nav1 ul li{ display: initial; }
+
+nav1 ul li a{ color: #FFFFFF;
+padding:5px 50px 5px 50px;
+display: inline-block;
+font-size: 25px;}
+
+nav ul li a:hover{clor:red;}
+
